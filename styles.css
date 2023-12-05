@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+.lazy-image {
+      width: 100%;
+      max-width: 400px;
+      height: auto;
+      display: block;
+      margin: 10px 0;
+    }
